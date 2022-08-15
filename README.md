@@ -2,6 +2,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cube707&show_icons=true&theme=merko)
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cube707&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cube707&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+
 <!--
 **Cube707/Cube707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
